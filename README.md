@@ -8,8 +8,8 @@ This is a feed-forward neural network written with Python and NumPy. The goal of
 - Allows for the use of 1 to 5 hidden layers. 
 - Normalizes data.
 - Automatically breaks as over-training is detected.
-- Runs multiple trials and takes the mean and standard deviation of the results.
 - Includes options to test hyper-parameters, running up to 5 variations of a particular hyper-parameter and displaying the final error of each in a histogram with error bars.
+- Runs multiple trials for each hyper-parameter and takes the mean and standard deviation of the results.
 
 **Training/Validation Plot From a 5-Layer Network:**
 <p align="center">
