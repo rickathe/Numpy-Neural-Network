@@ -33,9 +33,9 @@ This is a feed-forward neural network written with Python and NumPy. The goal of
 &nbsp;
 
 ## How to Use
-Apart from NumPy, all that is required to run this neural network is the two files mentioned below.
-- neural_net : module containing the neural network; supports 1-5 hidden layers.
-- neural_net_test : script which sets the hyper-parameters of the neural_net (epochs, number of nodes, learning rate, etc), runs and stores the results of the network, and creates visualizations of the data. 
+Apart from NumPy, all that is required to run this neural network is the two files mentioned below:
+- neural_net: module containing the neural network; supports 1-5 hidden layers.
+- neural_net_test: script which sets the hyper-parameters of the neural_net (epochs, number of nodes, learning rate, etc), runs and stores the results of the network, and creates visualizations of the data. 
 
 &nbsp;
 &nbsp;
