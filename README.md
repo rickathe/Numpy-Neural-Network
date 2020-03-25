@@ -16,7 +16,7 @@ This is a feed-forward neural network written with Python and NumPy. The goal of
   <img width="560" height="400" src="https://github.com/rickathe/Numpy_Neural_Network/blob/master/Plots/multiply_10k_1k_50h_001lr_5layer_test5.png">
 </p>
 
-** Histogram to Test Error vs. Hyper-Parameter Chosen**
+**Histogram to Test Error vs. Hyper-Parameter Chosen**
 <p align="center">
   <img width="560" height="400" src="https://github.com/rickathe/Numpy_Neural_Network/blob/master/Plots/bar_10k1k_var_01lr_5layer_test1.png">
 </p>
