@@ -9,6 +9,7 @@ Features:
 - Allows for the use of 1 to 5 hidden layers. 
 - Includes options to test hyper-parameters, running up to 5 variations of a particular hyper-parameter and displaying the final error of each in a histogram.
 
-
-![5 Layer Plot](https://github.com/rickathe/Numpy_Neural_Network/blob/master/Plots/multiply_10k_1k_50h_001lr_5layer_test5.png)
+<p align="center">
+  <img width="560" height="400" src="https://github.com/rickathe/Numpy_Neural_Network/blob/master/Plots/multiply_10k_1k_50h_001lr_5layer_test5.png">
+</p>
 
