@@ -1,6 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
-import nnlayer
+import neural_net
 
 
 def plot_loss(test_0_output, test_1_output, test_2_output, test_3_output):
@@ -74,7 +74,7 @@ validation_record = []
 
 
 for test in range(len(test_runs)):
-    n = nnlayer.NeuralNetwork(set_input_nodes, test_runs[test], set_output_nodes, \
+    n = neural_net.NeuralNetwork(set_input_nodes, test_runs[test], set_output_nodes, \
     set_learning_rate, set_hidden_layers)
     for e in range(epoch):
         loss = 0
