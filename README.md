@@ -35,7 +35,11 @@ This is a feed-forward neural network written with Python and NumPy. The goal of
 ## How to Use
 Apart from NumPy, all that is required to run this neural network is the two files mentioned below.
 - neural_net : module containing the neural network; supports 1-5 hidden layers.
-- neural_net_test : script which sets the hyper-parameters of the neural_net (epochs, number of nodes, learning rate, etc), runs and stores the results of the network, and creates visualizations of the data.
+- neural_net_test : script which sets the hyper-parameters of the neural_net (epochs, number of nodes, learning rate, etc), runs and stores the results of the network, and creates visualizations of the data. 
+
+&nbsp;
+&nbsp;
+
 
 ## Acknowledgements
 The original inspiration for this project was based on Tariq Rashid's excellent book, __Make Your Own Neural Network__, the code of which can be found [here](https://github.com/makeyourownneuralnetwork).
